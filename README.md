@@ -15,7 +15,7 @@ The tool provides feedback on the password's strength by evaluating how many of 
 1. Clone the Repository To get started, first clone the repository from GitHub to your local Linux machine:
 
 ```bash
-git clone https://github.com/CTFxShubh/PRODIGY_CS_Task-03.git
+git clone https://github.com/CTFxShubh/Password-Strength-Assessment-Tool.git
 ```
 
 2. Navigate to the directory
