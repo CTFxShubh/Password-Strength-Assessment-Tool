@@ -21,7 +21,7 @@ git clone https://github.com/CTFxShubh/Password-Strength-Assessment-Tool.git
 2. Navigate to the directory
 
 ```bash
-cd PRODIGY_CS_Task-03
+cd Password-Strength-Assessment-Tool
 ```
 
 3. make the tool executable to run
